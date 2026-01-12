@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Apoorva
 
-<!--
-**ApoorvaCodes/ApoorvaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student at BMSCE | CGPA: 9.85  
+💻 Passionate about coding, problem solving, and learning software engineering  
 
-Here are some ideas to get you started:
+## 🚀 What I’m currently working on
+- Improving Data Structures & Algorithms skills  
+- Building projects in Python & Web stack  
+- Preparing for coding contests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C,Java, Python, JavaScript
+- **Web Technologies:** HTML, CSS
+
+## 📌 Projects I’ve built
+Check pinned repositories below 👇
+

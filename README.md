@@ -1,17 +1,12 @@
 # 👋 Hi, I'm Apoorva
 
-🎓 Computer Science Engineering student at BMSCE | CGPA: 9.85  
-💻 Passionate about coding, problem solving, and learning software engineering  
-
-## 🚀 What I’m currently working on
-- Improving Data Structures & Algorithms skills  
-- Building projects in Python & Web stack  
-
-
-## 🛠️ Skills
-- **Languages:** C,Java, Python, JavaScript
-- **Web Technologies:** HTML, CSS
+🎓 Computer Science Engineering student at BMSCE | CGPA: 9.82  
+💻 Passionate about product development and AI/ML
 
 ## 📌 Projects I’ve built
 Check pinned repositories below 👇
+ClubCompass: https://github.com/ApoorvaCodes/ClubCompass
+Life-Dashboard: https://github.com/ApoorvaCodes/Life-Dashboard
+baby-weather: https://github.com/ApoorvaCodes/baby-weather
+
 
